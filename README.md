@@ -3,7 +3,7 @@ Project 1 of semester 1, 2024
 **_Meme creation_**
 
 
-## Mr Yin's Github: [https://github.com/YinBernie](url)
+## Mr Yin's Github: https://github.com/YinBernie
 
 ### Points to note: 
 * The meme will demonstrate creativity. 
